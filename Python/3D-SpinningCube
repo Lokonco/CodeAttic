@@ -1,3 +1,5 @@
+# MUST BE RUN IN A TERMINAL
+
 #-------Imports-------#
 import math,time,sys,os
 #---------------------#
