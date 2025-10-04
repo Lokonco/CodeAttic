@@ -18,3 +18,7 @@ A collection of small projects built in many different languages.
 |[RockPaperScissor](https://github.com/Lokonco/CodeAttic/blob/main/C%2B%2B/rps.cpp)     |
 |[Simple Timer](https://github.com/Lokonco/CodeAttic/blob/main/C%2B%2B/simpletimer.cpp)     |
 
+|Java|
+|----|
+|[Http Server](https://github.com/Lokonco/CodeAttic/blob/main/Java/HttpServer.java) |
+|[Collatz Sequence](https://github.com/Lokonco/CodeAttic/blob/main/Java/CollatzSequence.java) |
