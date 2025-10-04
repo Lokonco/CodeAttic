@@ -1,8 +1,6 @@
 # CodeAttic
 A collection of small projects built in many different languages.
-<table>
-<tr>
-<td>
+
 | Python |
 |--------|
 |[3D-Spinning Cube](https://github.com/Lokonco/CodeAttic/blob/main/Python/3D-SpinningCube.py) |
@@ -10,9 +8,7 @@ A collection of small projects built in many different languages.
 |[Mini Games](https://github.com/Lokonco/CodeAttic/blob/main/Python/MiniGames.py) |
 |[Perodic Table](https://github.com/Lokonco/CodeAttic/blob/main/Python/PerodicTable.py) |
 |[Reflex Game](https://github.com/Lokonco/CodeAttic/blob/main/Python/ReflexGame.py) |
-</td>
-  
-<td>
+
 | C++ |
 |-----|
 |[Ceaser Cypher](https://github.com/Lokonco/CodeAttic/blob/main/C%2B%2B/CeaserCypher.cpp)    |
@@ -21,7 +17,4 @@ A collection of small projects built in many different languages.
 |[Rot 13 Decypher](https://github.com/Lokonco/CodeAttic/blob/main/C%2B%2B/rot13Decypher.cpp)     |
 |[RockPaperScissor](https://github.com/Lokonco/CodeAttic/blob/main/C%2B%2B/rps.cpp)     |
 |[Simple Timer](https://github.com/Lokonco/CodeAttic/blob/main/C%2B%2B/simpletimer.cpp)     |
-</td>
 
-</tr>
-</table>
