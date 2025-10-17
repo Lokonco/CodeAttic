@@ -22,3 +22,7 @@ A collection of small projects built in many different languages.
 |----|
 |[Http Server](https://github.com/Lokonco/CodeAttic/blob/main/Java/HttpServer.java) |
 |[Collatz Sequence](https://github.com/Lokonco/CodeAttic/blob/main/Java/CollatzSequence.java) |
+
+|Html-Css-Js|
+|-----------|
+|Flip Clock Timer(https://github.com/Lokonco/CodeAttic/tree/main/Html-Css-Js-Ts/FlipClockTimer)|
