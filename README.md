@@ -25,4 +25,4 @@ A collection of small projects built in many different languages.
 
 |Html-Css-Js|
 |-----------|
-|Flip Clock Timer(https://github.com/Lokonco/CodeAttic/tree/main/Html-Css-Js-Ts/FlipClockTimer)|
+|[Flip Clock Timer](https://github.com/Lokonco/CodeAttic/tree/main/Html-Css-Js-Ts/FlipClockTimer) |
