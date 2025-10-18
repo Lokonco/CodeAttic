@@ -27,6 +27,9 @@ An interactive periodic table of elements
 ### [Reflex Game](https://github.com/Lokonco/CodeAttic/blob/main/Python/ReflexGame.py)
 Test your reflexes with this fast-paced timing game
 
+### [MazeGenerator&Solver](https://github.com/Lokonco/CodeAttic/tree/main/Python/MazeGenerator%26Solver)
+Generate a random maze and watch dfs do its magic
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"/> C++
