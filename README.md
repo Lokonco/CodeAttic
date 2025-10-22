@@ -7,7 +7,7 @@
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python"/> Python
 
 ### [3D-Spinning Cube](https://github.com/Lokonco/CodeAttic/blob/main/Python/3D-SpinningCube.py)
-A mesmerizing 3D cube that rotates in terminal using ASCII art
+A mesmerizing 3D cube that rotates in the terminal using ASCII art
 
 ### [Deep Cave Animation](https://github.com/Lokonco/CodeAttic/blob/main/Python/DeepCaveAnimation.py)
 An animated journey through an endless cave tunnel
