@@ -9,14 +9,8 @@
 ### [3D-Spinning Cube](https://github.com/Lokonco/CodeAttic/blob/main/Python/3D-SpinningCube.py)
 A mesmerizing 3D cube that rotates in terminal using ASCII art
 
-**Demo:**
-<!-- Add your GIF here: ![3D Cube Demo](path/to/your/gif.gif) -->
-
 ### [Deep Cave Animation](https://github.com/Lokonco/CodeAttic/blob/main/Python/DeepCaveAnimation.py)
 An animated journey through an endless cave tunnel
-
-**Demo:**
-<!-- Add your GIF here: ![Cave Animation Demo](path/to/your/gif.gif) -->
 
 ### [Mini Games](https://github.com/Lokonco/CodeAttic/blob/main/Python/MiniGames.py)
 A collection of classic mini games to play in the terminal
