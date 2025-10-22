@@ -62,6 +62,9 @@ A basic HTTP server implementation from scratch
 ### [Collatz Sequence](https://github.com/Lokonco/CodeAttic/blob/main/Java/CollatzSequence.java)
 Explore the fascinating Collatz conjecture
 
+### [Flappy Bird Clone](https://github.com/Lokonco/CodeAttic/tree/main/Java/FlappyBirdClone)
+Flappy Bird clone made for a Java 1 development class project. 
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30" alt="HTML"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" height="30" alt="CSS"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/> HTML/CSS/JavaScript
