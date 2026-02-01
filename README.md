@@ -6,19 +6,19 @@
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python"/> Python
 
-### [3D-Spinning Cube](https://github.com/Lokonco/CodeAttic/blob/main/Python/3D-SpinningCube.py)
+### [3D-Spinning Cube](https://github.com/Lokonco/CodeAttic/tree/main/Python/3D-SpinningCube)
 A mesmerizing 3D cube that rotates in the terminal using ASCII art
 
-### [Deep Cave Animation](https://github.com/Lokonco/CodeAttic/blob/main/Python/DeepCaveAnimation.py)
+### [Deep Cave Animation](https://github.com/Lokonco/CodeAttic/tree/main/Python/DeepCaveAnimation)
 An animated journey through an endless cave tunnel
 
-### [Mini Games](https://github.com/Lokonco/CodeAttic/blob/main/Python/MiniGames.py)
+### [Mini Games](https://github.com/Lokonco/CodeAttic/tree/main/Python/MiniGames)
 A collection of classic mini games to play in the terminal
 
-### [Periodic Table](https://github.com/Lokonco/CodeAttic/blob/main/Python/PerodicTable.py)
+### [Periodic Table](https://github.com/Lokonco/CodeAttic/tree/main/Python/PerodicTable)
 An interactive periodic table of elements
 
-### [Reflex Game](https://github.com/Lokonco/CodeAttic/blob/main/Python/ReflexGame.py)
+### [Reflex Game](https://github.com/Lokonco/CodeAttic/tree/main/Python/ReflexGame.py)
 Test your reflexes with this fast-paced timing game
 
 ### [MazeGenerator&Solver](https://github.com/Lokonco/CodeAttic/tree/main/Python/MazeGenerator%26Solver)
@@ -28,32 +28,32 @@ Generate a random maze and watch dfs do its magic
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"/> C++
 
-### [Caesar Cipher](https://github.com/Lokonco/CodeAttic/blob/main/C%2B%2B/CeaserCypher.cpp)
+### [Caesar Cipher](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/CeaserCypher.cpp)
 Encrypt and decrypt messages using the classic Caesar cipher technique
 
-### [Cho-Han](https://github.com/Lokonco/CodeAttic/blob/main/C%2B%2B/Cho-Han.cpp)
+### [Cho-Han](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/Cho-Han.cpp)
 A traditional Japanese dice game
 
-### [Rainfall Data](https://github.com/Lokonco/CodeAttic/blob/main/C%2B%2B/rainfalldata.cpp)
+### [Rainfall Data](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/rainfalldata.cpp)
 Analyze and visualize rainfall statistics
 
-### [ROT13 Decipher](https://github.com/Lokonco/CodeAttic/blob/main/C%2B%2B/rot13Decypher.cpp)
+### [ROT13 Decipher](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/rot13Decypher.cpp)
 Decode ROT13 encrypted messages
 
-### [Rock Paper Scissors](https://github.com/Lokonco/CodeAttic/blob/main/C%2B%2B/rps.cpp)
+### [Rock Paper Scissors](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/rps.cpp)
 The classic hand game against the computer
 
-### [Simple Timer](https://github.com/Lokonco/CodeAttic/blob/main/C%2B%2B/simpletimer.cpp)
+### [Simple Timer](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/simpletimer.cpp)
 A lightweight countdown timer application
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java"/> Java
 
-### [HTTP Server](https://github.com/Lokonco/CodeAttic/blob/main/Java/HttpServer.java)
+### [HTTP Server](https://github.com/Lokonco/CodeAttic/tree/main/Java/HttpServer.java)
 A basic HTTP server implementation from scratch
 
-### [Collatz Sequence](https://github.com/Lokonco/CodeAttic/blob/main/Java/CollatzSequence.java)
+### [Collatz Sequence](https://github.com/Lokonco/CodeAttic/tree/main/Java/CollatzSequence.java)
 Explore the fascinating Collatz conjecture
 
 ### [Flappy Bird Clone](https://github.com/Lokonco/CodeAttic/tree/main/Java/FlappyBirdClone)
