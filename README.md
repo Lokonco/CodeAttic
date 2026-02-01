@@ -7,16 +7,10 @@
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python"/> Python
 
 ### [3D-Spinning Cube](https://github.com/Lokonco/CodeAttic/blob/main/Python/3D-SpinningCube.py)
-A mesmerizing 3D cube that rotates in terminal using ASCII art
-
-**Demo:**
-<!-- Add your GIF here: ![3D Cube Demo](path/to/your/gif.gif) -->
+A mesmerizing 3D cube that rotates in the terminal using ASCII art
 
 ### [Deep Cave Animation](https://github.com/Lokonco/CodeAttic/blob/main/Python/DeepCaveAnimation.py)
 An animated journey through an endless cave tunnel
-
-**Demo:**
-<!-- Add your GIF here: ![Cave Animation Demo](path/to/your/gif.gif) -->
 
 ### [Mini Games](https://github.com/Lokonco/CodeAttic/blob/main/Python/MiniGames.py)
 A collection of classic mini games to play in the terminal
@@ -26,6 +20,9 @@ An interactive periodic table of elements
 
 ### [Reflex Game](https://github.com/Lokonco/CodeAttic/blob/main/Python/ReflexGame.py)
 Test your reflexes with this fast-paced timing game
+
+### [MazeGenerator&Solver](https://github.com/Lokonco/CodeAttic/tree/main/Python/MazeGenerator%26Solver)
+Generate a random maze and watch dfs do its magic
 
 ---
 
@@ -58,6 +55,9 @@ A basic HTTP server implementation from scratch
 
 ### [Collatz Sequence](https://github.com/Lokonco/CodeAttic/blob/main/Java/CollatzSequence.java)
 Explore the fascinating Collatz conjecture
+
+### [Flappy Bird Clone](https://github.com/Lokonco/CodeAttic/tree/main/Java/FlappyBirdClone)
+Flappy Bird clone made for a Java 1 development class project. 
 
 ---
 
