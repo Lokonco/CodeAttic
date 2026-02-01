@@ -18,7 +18,7 @@ A collection of classic mini games to play in the terminal
 ### [Periodic Table](https://github.com/Lokonco/CodeAttic/tree/main/Python/PerodicTable)
 An interactive periodic table of elements
 
-### [Reflex Game](https://github.com/Lokonco/CodeAttic/tree/main/Python/ReflexGame.py)
+### [Reflex Game](https://github.com/Lokonco/CodeAttic/tree/main/Python/WesternReflexGame)
 Test your reflexes with this fast-paced timing game
 
 ### [MazeGenerator&Solver](https://github.com/Lokonco/CodeAttic/tree/main/Python/MazeGenerator%26Solver)
@@ -28,32 +28,32 @@ Generate a random maze and watch dfs do its magic
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++"/> C++
 
-### [Caesar Cipher](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/CeaserCypher.cpp)
+### [Caesar Cipher](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/CeaserCypher)
 Encrypt and decrypt messages using the classic Caesar cipher technique
 
-### [Cho-Han](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/Cho-Han.cpp)
+### [Cho-Han](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/Cho-Han)
 A traditional Japanese dice game
 
-### [Rainfall Data](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/rainfalldata.cpp)
+### [Rainfall Data](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/RainFallData)
 Analyze and visualize rainfall statistics
 
-### [ROT13 Decipher](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/rot13Decypher.cpp)
+### [ROT13 Decipher](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/Rot13)
 Decode ROT13 encrypted messages
 
-### [Rock Paper Scissors](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/rps.cpp)
+### [Rock Paper Scissors](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/RockPaperScissor)
 The classic hand game against the computer
 
-### [Simple Timer](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/simpletimer.cpp)
+### [Simple Timer](https://github.com/Lokonco/CodeAttic/tree/main/C%2B%2B/SimpleTimer)
 A lightweight countdown timer application
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java"/> Java
 
-### [HTTP Server](https://github.com/Lokonco/CodeAttic/tree/main/Java/HttpServer.java)
+### [HTTP Server](https://github.com/Lokonco/CodeAttic/tree/main/Java/HttpServer)
 A basic HTTP server implementation from scratch
 
-### [Collatz Sequence](https://github.com/Lokonco/CodeAttic/tree/main/Java/CollatzSequence.java)
+### [Collatz Sequence](https://github.com/Lokonco/CodeAttic/tree/main/Java/CollatzSequence)
 Explore the fascinating Collatz conjecture
 
 ### [Flappy Bird Clone](https://github.com/Lokonco/CodeAttic/tree/main/Java/FlappyBirdClone)
