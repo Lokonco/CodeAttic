@@ -1,4 +1,4 @@
-# Maze Generator & Solver (Tkinter)
+# Maze Generator & Solver
 
 ## Overview
 A Python program that **generates and solves a maze** visually using **Tkinter**.  
@@ -31,3 +31,4 @@ A Python program that **generates and solves a maze** visually using **Tkinter**
 ## Usage
 ```bash
 python maze.py
+
