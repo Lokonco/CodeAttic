@@ -40,4 +40,4 @@ Each element has the following fields:
 
 ## Usage
 ```bash
-python periodic_table_lookup.py
+python periodic_table.py
